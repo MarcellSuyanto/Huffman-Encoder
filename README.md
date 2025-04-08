@@ -1,4 +1,4 @@
-# Huffmand Encoder - Gregorius Marcell Suyanto UID 3036254102
+# Huffmand Encoder
 
 ## How to run  
 1. run ```python hmencoder.py``` in terminal  

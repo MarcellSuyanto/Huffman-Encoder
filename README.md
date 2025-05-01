@@ -1,4 +1,4 @@
-# Huffmand Encoder
+# Huffman Encoder
 
 ## How to run  
 1. run ```python hmencoder.py``` in terminal  
